@@ -1,0 +1,1 @@
+This is an Entity Framework Code First Db builder, with Bootstrap functionality. (MVC4/Asp.Net/Visual Studio)
